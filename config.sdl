@@ -1,0 +1,13 @@
+//verbose true
+//command_pacman "yay -Qqentt"
+//command_aur "yay -Qqemtt"
+//pacman_output_file "user_pkgfile.txt"
+//aur_ouput_file "user_pkgfile_aur.txt"
+sources {
+    source "raw.githubusercontent.com/endeavouros-team/EndeavourOS-packages-lists/master/printer" url=true
+    source "https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-packages-lists/master/eos-apps" url=true
+    source "https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-packages-lists/master/eos-base-group" url=true
+    source "https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-packages-lists/master/gnome" url=true
+    source "https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-packages-lists/master/kde" url=true
+    source "custom.txt"
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sdlang-d-0.10.6" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/sdlang-d/0.10.6/sdlang-d/src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
