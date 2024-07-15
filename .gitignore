@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/installedpackagechecker
+installedpackagechecker.so
+installedpackagechecker.dylib
+installedpackagechecker.dll
+installedpackagechecker.a
+installedpackagechecker.lib
+installedpackagechecker-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
