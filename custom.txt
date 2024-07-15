@@ -1,0 +1,16 @@
+akregator
+discord
+discover
+itinerary
+kernel-install-for-dracut
+kmail-account-wizard
+mbox-importer
+merkuro
+partitionmanager
+pim-data-exporter
+pim-sieve-editor
+stow
+svt-vp9
+vim
+vte3
+zanshin

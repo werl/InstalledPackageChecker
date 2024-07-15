@@ -2,7 +2,7 @@
 docs.json
 __dummy.html
 docs/
-/installedpackagechecker
+/installed_package_checker
 installedpackagechecker.so
 installedpackagechecker.dylib
 installedpackagechecker.dll
@@ -14,3 +14,4 @@ installedpackagechecker-test-*
 *.o
 *.obj
 *.lst
+/InstalledPackageChecker.iml

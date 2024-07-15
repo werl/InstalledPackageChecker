@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unit-threaded:runner-0.7.55" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/unit-threaded/0.7.55/unit-threaded/subpackages/runner/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

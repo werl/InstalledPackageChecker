@@ -1,0 +1,8 @@
+name "installed_package_checker"
+description "Checks to see what packages were installed after initial installation on Arch based Linux distros, with YAY support!"
+authors "Peter Lewis"
+license "GPL"
+
+dependency "sdlang-d" version="~>0.10.6"
+
+
