@@ -15,3 +15,5 @@ installedpackagechecker-test-*
 *.obj
 *.lst
 /InstalledPackageChecker.iml
+/user_pkgfile.txt
+/user_pkgfile_aur.txt
